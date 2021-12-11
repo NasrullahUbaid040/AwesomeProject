@@ -6,7 +6,7 @@ import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityI
 import {widthPercentageToDP as wp} from 'react-native-responsive-screen';
 import {createStackNavigator} from '@react-navigation/stack';
 // import {Button} from 'react-native-elements/dist/buttons/Button';
-
+// this will do absolutely nothing
 function Home1(props) {
   return (
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
